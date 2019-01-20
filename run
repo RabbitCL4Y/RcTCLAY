@@ -1,0 +1,98 @@
+#!/bin/bash
+#Author = 085752481601
+#Contact = RabbitCL4Y123@gmail.com
+clear
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+figlet -f slant Installing |lolcat
+sleep 2
+clear
+echo "Menginstall Bahan Tools"|lolcat
+sleep 1
+clear
+figlet -f future "PLEASE WAIT!!!"|lolcat
+sleep 2
+clear
+echo "starting tools... /";
+sleep 0.1;
+clear
+echo 'Starting tools... -';
+sleep 0.1;
+clear
+echo 'sTarting tools... \';
+sleep 0.1;
+clear
+echo "stArting tools... /";
+sleep 0.1;
+clear
+echo 'staRting tools... -';
+sleep 0.1;
+clear
+echo 'starTing tools... \';
+sleep 0.1;
+clear
+echo "startIng tools... /";
+sleep 0.1;
+clear
+echo "startiNg tools... -";
+sleep 0.1;
+clear
+echo 'startinG tools... \';
+sleep 0.1;
+clear
+echo 'starting Tools... -';
+sleep 0.1;
+clear
+echo "starting tOols... /";
+sleep 0.1;
+clear
+echo 'starting toOls... -';
+sleep 0.1;
+clear
+echo 'starting tooLs... \';
+sleep 0.1;
+clear
+echo "starting toolS... /";
+sleep 0.1;
+clear
+echo "starting tools... /";
+sleep 0.1;
+clear
+echo 'Starting tools... -';
+sleep 0.1;
+clear
+echo 'sTarting tools... \';
+sleep 0.1;
+clear
+echo "stArting tools... /";
+sleep 0.1;
+clear
+echo 'staRting tools... -';
+sleep 0.1;
+clear
+pkg update && pkg upgrade
+clear
+pkg install git
+clear
+pkg install php
+clear
+pkg install python2
+clear
+pkg install ruby
+clear
+gem install lolcat
+clear
+pkg install figlet
+clear
+pip2 install lolcat
+clear
+pkg install toilet
+clear
+figlet -f future "Install Bahan Selesai"|lolcat
+sleep 3
+clear
