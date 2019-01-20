@@ -10,7 +10,7 @@ mengetik('EXIT IN MY TOOLS')
 mengetik('Follow Me On The Social Media')
 mengetik('My Github     : https://github.com/RabbitCL4Y')
 mengetik('My Instagram  : https://www.instagram.com/muhammadrafli_337')
-mengetik('My Channel Yt : Rabbit Cybet Team')
+mengetik('My Channel Yt : Rabbit Cyber Team')
 mengetik('Contact Me    : RabbitCL4Y123@gmail.com')
 mengetik('Every successful person must have a failure. Do not be afraid to fail because failureis a part of success')
 
